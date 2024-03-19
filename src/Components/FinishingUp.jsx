@@ -46,7 +46,7 @@ export const FinishingUp = ({ billing, chosen, addOnsData, changeInfo }) => {
     <div className="shadow-lg md:shadow-none pb-16 pt-9 md:pt-0 rounded-lg bg-white px-7 font-body md:w-[45vw]">
       <h1 className="text-3xl font-semibold text-bluePrimary">Finishing up</h1>
       <p className="text-grayMain mt-2">
-        Double-check everything looks okay before confirming
+        Double-check everything looks okay before confirming.
       </p>
 
       <div className=" bg-mangolia mt-10 p-5 rounded-md">
